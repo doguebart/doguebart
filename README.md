@@ -1,4 +1,8 @@
 ## Olá, me chamo Douglas
+Olá! Sou um estudante entusiasmado de 19 anos de idade, atualmente cursando Análise e Desenvolvimento de Sistemas na FIAP. Tive a oportunidade de obter uma bolsa de estudos excepcional enquanto ainda estava concluindo o ensino médio na Fundação Bradesco. Iniciei minha jornada acadêmica em março de 2022 e estou ansioso para me formar em dezembro de 2023.
+
+No momento, estou empregado como programador Frontend junior freelancer na TuneTraders, onde venho acumulando cinco meses de experiência.
+
 <div align="center">
   <a href="https://github.com/doguebart">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=doguebart&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
