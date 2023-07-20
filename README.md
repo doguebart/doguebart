@@ -1,4 +1,4 @@
-## Olá, me chamo Douglas
+# Me chamo Douglas
 
 ### Sobre Mim
 Com 7 meses de experiência em desenvolvimento web, sou um profissional comprometido e
