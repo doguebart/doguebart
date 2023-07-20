@@ -3,9 +3,15 @@
 ### Sobre Mim
 Com 7 meses de experiência em desenvolvimento web, sou um profissional comprometido e
 apaixonado por programação. Minhas principais habilidades incluem Javascript, ReactJs e NodeJs, que
-utilizo para criar interfaces de usuário interativas e responsivas. Como desenvolvedor, estou sempre buscando me atualizar e aprender novas tecnologias e
+utilizo para criar interfaces de usuário interativas e responsivas. <br/> <br/>
+Como desenvolvedor, estou sempre buscando me atualizar e aprender novas tecnologias e
 ferramentas, o que me torna capaz de enfrentar desafios complexos e propor soluções inovadoras.
 Estou ansioso para trabalhar em novos projetos e colaborar em equipes, utilizando minhas habilidades.
+
+### Formação - FIAP
+Participei de um processo seletivo para concorrer a uma bolsa integral para cursar Análise e
+Desenvolvimento de Sistemas em uma das melhores faculdades de tecnologiae fui contemplado
+durante dois anos (duração da graduação em tecnólogo).
 
 <br/> <br/>
 
