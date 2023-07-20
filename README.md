@@ -8,11 +8,6 @@ Como desenvolvedor, estou sempre buscando me atualizar e aprender novas tecnolog
 ferramentas, o que me torna capaz de enfrentar desafios complexos e propor soluções inovadoras.
 Estou ansioso para trabalhar em novos projetos e colaborar em equipes, utilizando minhas habilidades.
 
-### Formação - FIAP
-Participei de um processo seletivo para concorrer a uma bolsa integral para cursar Análise e
-Desenvolvimento de Sistemas em uma das melhores faculdades de tecnologiae fui contemplado
-durante dois anos (duração da graduação em tecnólogo).
-
 <br/> <br/>
 
 <div align="center">
