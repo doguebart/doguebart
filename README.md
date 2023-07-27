@@ -1,17 +1,10 @@
 # Me chamo Douglas Welber
 
 ### Sobre Mim
-Com 7 meses de experiência em desenvolvimento web, sou um profissional comprometido e
-apaixonado por programação. Minhas principais habilidades incluem Javascript, ReactJs e NodeJs, que
-utilizo para criar interfaces de usuário interativas e responsivas. <br/> <br/>
-Como desenvolvedor, estou sempre buscando me atualizar e aprender novas tecnologias e
-ferramentas, o que me torna capaz de enfrentar desafios complexos e propor soluções inovadoras.
-Estou ansioso para trabalhar em novos projetos e colaborar em equipes, utilizando minhas habilidades.
-
-### Formação - FIAP
-Participei de um processo seletivo para concorrer a uma bolsa integral para cursar Análise e
-Desenvolvimento de Sistemas em uma das melhores faculdades de tecnologiae fui contemplado
-durante dois anos (duração da graduação em tecnólogo).
+Sou um desenvolvedor web comprometido e apaixonado por
+programação, com 7 meses de experiência no mercado. Minhas
+principais habilidades incluem JavaScript, React.js e Node.js, que utilizo
+para criar interfaces de usuário interativas e responsivas.
 
 <div style="display: inline_block"><br>
   <img align="center" alt="dodo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
