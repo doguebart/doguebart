@@ -1,6 +1,4 @@
-# Me chamo Douglas Welber
-
-### Sobre Mim
+# Douglas Welber
 Sou um desenvolvedor web comprometido e apaixonado por
 programação, com 7 meses de experiência no mercado. Minhas
 principais habilidades incluem JavaScript, React.js e Node.js, que utilizo
