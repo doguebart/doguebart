@@ -1,6 +1,15 @@
 # Douglas Welber
 Sou um desenvolvedor web comprometido e apaixonado por programação, com 7 meses de experiência no mercado. Minhas principais habilidades incluem Javascript, React.js e Node.js, que utilizo para criar aplicações fullstack interativas e responsivas.
 
+<div>
+    <a href="https://github.com/doguebart">
+      <p align="center">
+        <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=doguebart&count_private=true&show_icons=true&theme=tokyonight&include_all_commits=true"/>
+        <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=doguebart&langs_count=16&theme=tokyonight&layout=compact"/>
+      </p>
+   <a/>
+</div>
+
 ## Tecnologias 💻
 
 <div style="display: inline_block"><br>
