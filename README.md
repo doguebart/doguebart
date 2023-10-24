@@ -4,7 +4,7 @@ Olá, sou Douglas Welber, natural de Osasco, São Paulo. Minha jornada no mundo 
 
 Minha paixão está no desenvolvimento de interfaces, mais especificamente na área de frontend. Com um ano de experiência, já atuei como freelancer em alguns projetos. Durante nove meses, mergulhei no ecossistema ReactJs, Node.js, Next.js, TypeScript, Tailwind CSS e Styled-Components, criando sites e aplicativos com designs atraentes e responsivos.
 
-## Principais Habilidades
+# Habilidades
 
 React.js, Next.js, Node.js, JavaScript, TypeScript, REST API, HTML, CSS, Tailwind CSS, StyledComponents, Bootstrap, Mobile First, Noções de Design, MongoDB, MySQL, Git.
 
