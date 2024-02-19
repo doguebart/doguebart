@@ -25,23 +25,13 @@
   </a>
 </div>
 
- <hr/>
+</br>
  
 <h2 align="center">⚒️ Linguagens, Frameworks e Ferramentas ⚒️</h2>
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,nodejs,javascript,typescript,tailwind,bootstrap" /></br>
     <img src="https://skillicons.dev/icons?i=git,express,postgres,mongodb,mysql,figma" />
-</div>
-
-<br/>
-<hr/>
-
-<div align="center">
-
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/doguebart/doguebart/output/github-contribution-grid-snake.svg" />
-  
-  <br/><br/><br/>
 </div>
 
 <br/>
