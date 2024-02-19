@@ -26,8 +26,9 @@
 </div>
 
 </br>
+</br>
  
-<h2 align="center">⚒️ Linguagens, Frameworks e Ferramentas ⚒️</h2>
+<h3 align="center">⚒️ Linguagens, Frameworks e Ferramentas ⚒️</h3>
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,nodejs,javascript,typescript,tailwind,bootstrap" /></br>
