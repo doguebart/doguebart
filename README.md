@@ -1,28 +1,47 @@
-# Sobre Mim 
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Olá!+👋;+Me+Chamo+Douglas+Welber!;" />
+</h1>
 
-Olá, sou Douglas Welber, natural de Osasco, São Paulo. Minha jornada no mundo da tecnologia começou em dezembro de 2021, quando conquistei uma bolsa de estudos na FIAP para estudar Análise e Desenvolvimento de Sistemas. Essa oportunidade abriu as portas para o universo da programação.
+<h3 align="center">Um pouco sobre mim</h3>
 
-Minha paixão está no desenvolvimento de interfaces, mais especificamente na área de frontend. Com um ano de experiência, já atuei como freelancer em alguns projetos. Durante nove meses, mergulhei no ecossistema ReactJs, Node.js, Next.js, TypeScript, Tailwind CSS e Styled-Components, criando sites e aplicativos com designs atraentes e responsivos.
+<br/>
 
-# Habilidades
+<div align="center">
+ 
+ <p>Minha jornada na tecnologia começou em dezembro de 2021, quando iniciei meus estudos em Análise e Desenvolvimento de Sistemas na FIAP. Desde então, mergulhei no mundo do desenvolvimento de interfaces, especialmente na área de frontend. Ao longo de dois anos como desenvolvedor frontend, tive a oportunidade de liderar o desenvolvimento de duas plataformas web para projetos sociais, onde colaborei diretamente com os clientes para implementar funcionalidades específicas, utilizando uma variedade de tecnologias, como HTML, CSS, JavaScript e Bootstrap.</p>
+ </div>
 
-React.js, Next.js, Node.js, JavaScript, TypeScript, REST API, HTML, CSS, Tailwind CSS, StyledComponents, Bootstrap, Mobile First, Noções de Design, MongoDB, MySQL, Git.
-
-</br>
-
-<div>
-    <a href="https://github.com/doguebart">
-      <p align="center">
-        <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=doguebart&count_private=true&show_icons=true&theme=tokyonight&include_all_commits=true"/>
-        <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=doguebart&langs_count=16&theme=tokyonight&layout=compact"/>
-      </p>
-   <a/>
-</div>
-
-</br>
-
-<div style="display: inline_block"><br>
-  <a href="https://www.linkedin.com/in/douglaswelber/" target="_blank">
-    <img align="center" alt="LinkedIn" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg">
+ </br>
+ 
+<div align="center"> 
+  <a href="mailto:douglas.welber@outlook.com">
+    <img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/douglaswelber" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+  <a href="https://douglaswelber-portfolio.vercel.app" target="_blank">
+     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" />
   </a>
 </div>
+
+ <hr/>
+ 
+<h2 align="center">⚒️ Linguagens, Frameworks e Ferramentas ⚒️</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,nodejs,javascript,typescript,tailwind,bootstrap" /></br>
+    <img src="https://skillicons.dev/icons?i=git,express,postgres,mongodb,mysql,figma" />
+</div>
+
+<br/>
+<hr/>
+
+<div align="center">
+
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/doguebart/doguebart/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
+</div>
+
+<br/>
