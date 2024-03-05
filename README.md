@@ -8,7 +8,10 @@
 
 <div align="center">
  
- <p>Minha jornada na tecnologia começou ao sair do ensino médio, quando iniciei meus estudos em Análise e Desenvolvimento de Sistemas na FIAP. Desde então, mergulhei no mundo do desenvolvimento de interfaces, especialmente na área de frontend. Ao longo de dois anos como desenvolvedor frontend, tive a oportunidade de liderar o desenvolvimento de duas plataformas web para projetos sociais, onde colaborei diretamente com os clientes para implementar funcionalidades específicas, utilizando uma variedade de tecnologias, como HTML, CSS, JavaScript e Bootstrap.</p>
+ <p>🎂 20 anos 🎂</p>
+ <p>📍 Morador de Osasco - SP 📍</p>
+ <p>💻 Atuo como Desenvolvedor Frontend 💻</p>
+ <p>🎓 Formado em Análise e Desenvolvimento de Sistemas - FIAP 🎓</p>
  </div>
 
  </br>
