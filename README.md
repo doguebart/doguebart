@@ -8,10 +8,9 @@
 
 <div align="center">
  
- <p>🎂 20 anos 🎂</p>
- <p>📍 Morador de Osasco - SP 📍</p>
- <p>💻 Atuo como Desenvolvedor Frontend 💻</p>
- <p>🎓 Formado em Análise e Desenvolvimento de Sistemas - FIAP 🎓</p>
+ <p>📍 Morador de Osasco, SP</p>
+ <p>💻 Atuo como Desenvolvedor Frontend</p>
+ <p>🎓 Formado em Análise e Desenvolvimento de Sistemas - FIAP - (Fev/2022 - Dez/2023)</p>
  </div>
 
  </br>
