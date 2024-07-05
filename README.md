@@ -9,7 +9,7 @@
 <div align="center">
  
  <p>📍 Morador de Osasco, SP</p>
- <p>💻 Atuo como Desenvolvedor Frontend</p>
+ <p>💻 Atuo como Desenvolvedor Full Stack</p>
  <p>🎓 Formado em Análise e Desenvolvimento de Sistemas - FIAP - (Fev/2022 - Dez/2023)</p>
  </div>
 
